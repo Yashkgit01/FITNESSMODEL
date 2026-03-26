@@ -1,0 +1,501 @@
+customer_id,region,age,gender,annual_income,marketing_channel,ad_spend_per_lead,trial_signup,days_to_trial,usage_sessions,nps_score,purchased,plan,monthly_revenue,churned,age_group,income_segment,revenue_per_session
+CUST0001,South,37,Female,50800.0,Organic,0.0,True,3.0,23.9,8.1,False,None,0.0,False,36-45,Mid,0.0
+CUST0002,Central,50,Female,46400.0,Google Ads,18.92,True,1.0,5.4,9.8,False,None,0.0,False,46-55,Mid,0.0
+CUST0003,West,42,Male,75900.0,Google Ads,21.742499999999996,True,4.0,24.9,8.2,True,Basic,10.54,False,36-45,High,0.4233
+CUST0004,East,28,Female,66100.0,Social Media,9.27,True,1.0,26.3,5.3,False,None,0.0,False,26-35,Mid,0.0
+CUST0005,North,25,Male,68200.0,Referral,5.38,True,1.0,16.2,9.7,False,None,0.0,False,18-25,Mid,0.0
+CUST0006,North,38,Female,65100.0,Social Media,10.68,True,1.0,2.4,10.0,False,None,0.0,False,36-45,Mid,0.0
+CUST0007,North,22,Female,70700.0,Social Media,12.85,False,,,,True,Standard,19.72,False,18-25,High,0.0
+CUST0008,Central,50,Female,61700.0,Google Ads,18.04,False,,,,False,None,0.0,False,46-55,Mid,0.0
+CUST0009,East,44,Male,68800.0,Social Media,10.72,False,,,,False,None,0.0,False,36-45,Mid,0.0
+CUST0010,West,29,Male,76500.0,Social Media,12.98,True,2.0,14.9,3.5,False,None,0.0,False,26-35,High,0.0
+CUST0011,North,18,Female,58300.0,Social Media,15.61,False,,,,False,None,0.0,False,18-25,Mid,0.0
+CUST0012,Central,46,Male,51500.0,Social Media,11.62,True,2.0,22.0,6.2,False,None,0.0,False,46-55,Mid,0.0
+CUST0013,West,32,Male,82100.0,Social Media,13.44,True,5.0,12.5,7.1,False,None,0.0,False,26-35,High,0.0
+CUST0014,North,45,Male,51800.0,Google Ads,15.41,True,8.0,8.4,5.8,False,None,0.0,False,36-45,Mid,0.0
+CUST0015,North,33,Female,63700.0,Email,1.09,True,14.0,16.0,4.2,True,Basic,9.32,False,26-35,Mid,0.5825
+CUST0016,North,28,Female,56100.0,Referral,5.94,True,2.0,16.7,6.4,False,None,0.0,False,26-35,Mid,0.0
+CUST0017,South,34,Male,45300.0,Google Ads,20.97,False,,,,False,None,0.0,False,26-35,Mid,0.0
+CUST0018,East,34,Male,67800.0,Social Media,12.71,True,1.0,14.8,8.6,True,Premium,40.35,False,26-35,Mid,2.7264
+CUST0019,East,29,Male,56900.0,Organic,0.0,True,21.299999999999955,21.1,3.5,False,None,0.0,False,26-35,Mid,0.0
+CUST0020,South,39,Female,45500.0,Google Ads,18.0,False,,,,False,None,0.0,False,36-45,Mid,0.0
+CUST0021,East,24,Female,41400.0,Social Media,9.5,True,4.0,22.9,3.5,False,None,0.0,False,18-25,Mid,0.0
+CUST0022,North,32,Male,67500.0,Referral,6.21,True,5.0,17.7,6.6,False,None,0.0,False,26-35,Mid,0.0
+CUST0023,South,35,Male,51500.0,Social Media,13.76,False,,,,False,None,0.0,False,26-35,Mid,0.0
+CUST0024,South,33,Male,66600.0,Google Ads,17.1,False,,,,False,None,0.0,False,26-35,Mid,0.0
+CUST0025,East,40,Female,51900.0,Google Ads,17.06,False,,,,False,None,0.0,False,36-45,Mid,0.0
+CUST0026,West,23,Female,72200.0,Email,3.53,True,1.0,14.2,7.1,False,None,0.0,False,18-25,High,0.0
+CUST0027,North,20,Male,62500.0,Google Ads,17.13,True,4.0,18.3,7.2,True,Standard,20.64,False,18-25,Mid,1.1279
+CUST0028,East,45,Male,70800.0,Referral,4.87,True,1.0,18.3,8.1,False,None,0.0,False,36-45,High,0.0
+CUST0029,East,36,Male,54000.0,Organic,4.2,True,1.0,15.0,4.7,False,None,0.0,False,36-45,Mid,0.0
+CUST0030,North,27,Non-binary,62800.0,Social Media,11.51,True,3.0,9.8,8.3,False,None,0.0,False,26-35,Mid,0.0
+CUST0031,East,47,Male,61100.0,Social Media,11.28,False,,,,True,Basic,11.28,False,46-55,Mid,0.0
+CUST0032,North,35,Female,61900.0,Google Ads,16.7,False,,,,False,None,0.0,False,26-35,Mid,0.0
+CUST0033,North,44,Female,55500.0,Google Ads,19.49,False,,,,False,None,0.0,False,36-45,Mid,0.0
+CUST0034,Central,34,Male,,Google Ads,17.64,False,,,,False,None,0.0,False,26-35,,0.0
+CUST0035,Central,52,Male,60700.0,Organic,0.0,False,,,,False,None,0.0,False,46-55,Mid,0.0
+CUST0036,West,49,Male,59700.0,Referral,7.64,True,11.0,12.7,4.7,False,None,0.0,False,46-55,Mid,0.0
+CUST0037,South,31,Female,46300.0,Referral,7.84,True,1.0,28.3,5.4,True,Basic,9.39,False,26-35,Mid,0.3318
+CUST0038,North,42,Female,53000.0,Google Ads,16.8,False,,,,False,None,0.0,False,36-45,Mid,0.0
+CUST0039,West,39,Female,82000.0,Email,0.0,False,,,,False,None,0.0,False,36-45,High,0.0
+CUST0040,East,46,Female,39800.0,Organic,2.02,True,1.0,20.9,6.2,False,None,0.0,False,46-55,Low,0.0
+CUST0041,North,25,Male,54400.0,Email,1.63,False,,,,False,None,0.0,False,18-25,Mid,0.0
+CUST0042,East,40,Non-binary,58800.0,Social Media,13.58,False,,,,False,None,0.0,False,36-45,Mid,0.0
+CUST0043,North,43,Female,75700.0,Referral,1.06,True,1.0,25.7,6.3,False,None,0.0,False,36-45,High,0.0
+CUST0044,Central,18,Male,49300.0,Social Media,13.79,False,,,,True,Basic,10.34,False,18-25,Mid,0.0
+CUST0045,South,23,Non-binary,39400.0,Social Media,9.58,False,,,,False,None,0.0,False,18-25,Low,0.0
+CUST0046,West,18,Female,88800.0,Social Media,13.46,True,9.0,3.0,4.6,False,None,0.0,False,18-25,High,0.0
+CUST0047,South,31,Female,30500.0,Referral,5.03,True,18.0,12.2,3.9,False,None,0.0,False,26-35,Low,0.0
+CUST0048,East,40,Female,33000.0,Referral,3.09,True,1.0,27.8,8.6,False,None,0.0,False,36-45,Low,0.0
+CUST0049,East,47,Female,59400.0,Social Media,11.19,True,1.0,14.5,6.0,False,None,0.0,False,46-55,Mid,0.0
+CUST0050,North,34,Female,55000.0,Google Ads,19.37,True,10.0,11.0,6.6,False,None,0.0,False,26-35,Mid,0.0
+CUST0051,Central,48,Male,39800.0,Google Ads,18.21,False,,,,False,None,0.0,False,46-55,Low,0.0
+CUST0052,West,21,Male,77100.0,Google Ads,19.17,True,2.0,30.4,6.7,False,None,0.0,False,18-25,High,0.0
+CUST0053,Central,18,Female,52400.0,Social Media,15.95,True,1.0,7.0,10.0,False,None,0.0,False,18-25,Mid,0.0
+CUST0054,Central,33,Male,44400.0,Google Ads,14.87,False,,,,False,None,0.0,False,26-35,Mid,0.0
+CUST0055,East,37,Male,42200.0,Email,6.23,True,4.0,27.0,8.8,True,Basic,9.79,False,36-45,Mid,0.3626
+CUST0056,Central,33,Male,58700.0,Social Media,12.21,True,2.0,29.1,4.7,False,None,0.0,False,26-35,Mid,0.0
+CUST0057,North,18,Male,66500.0,Social Media,10.2,True,1.0,17.4,5.1,False,None,0.0,False,18-25,Mid,0.0
+CUST0058,North,33,Female,59000.0,Google Ads,15.34,False,,,,False,None,0.0,False,26-35,Mid,0.0
+CUST0059,North,22,Female,78500.0,Organic,0.0,False,,,,False,None,0.0,False,18-25,High,0.0
+CUST0060,South,40,Male,34300.0,Referral,6.84,True,7.0,27.6,8.9,False,None,0.0,False,36-45,Low,0.0
+CUST0061,South,37,Male,29700.0,Referral,4.74,True,1.0,22.1,8.1,False,None,0.0,False,36-45,Low,0.0
+CUST0062,South,25,Male,38100.0,Google Ads,21.02,False,,,,False,None,0.0,False,18-25,Low,0.0
+CUST0063,West,29,Female,69500.0,Referral,2.1,False,,,,False,None,0.0,False,26-35,Mid,0.0
+CUST0064,South,24,Female,47400.0,Social Media,11.98,False,,,,False,None,0.0,False,18-25,Mid,0.0
+CUST0065,South,33,Male,42600.0,Referral,2.5,True,18.0,20.0,7.6,False,None,0.0,False,26-35,Mid,0.0
+CUST0066,East,42,Female,58500.0,Organic,0.73,True,3.0,26.7,8.6,False,None,0.0,False,36-45,Mid,0.0
+CUST0067,North,25,Female,47500.0,Referral,6.77,True,1.0,23.3,4.3,False,None,0.0,False,18-25,Mid,0.0
+CUST0068,West,38,Female,84400.0,Email,2.16,False,,,,False,None,0.0,False,36-45,High,0.0
+CUST0069,North,29,Female,59200.0,Referral,0.0,False,,,,False,None,0.0,False,26-35,Mid,0.0
+CUST0070,Central,26,Male,61200.0,Social Media,12.4,False,,,,False,None,0.0,False,26-35,Mid,0.0
+CUST0071,West,33,Female,73400.0,Organic,0.87,True,2.0,22.1,8.5,False,None,0.0,False,26-35,High,0.0
+CUST0072,North,24,Male,64600.0,Social Media,12.81,True,3.0,26.8,10.0,False,None,0.0,False,18-25,Mid,0.0
+CUST0073,North,29,Female,65700.0,Google Ads,20.47,True,1.0,11.3,7.0,True,Premium,40.38,False,26-35,Mid,3.5735
+CUST0074,West,23,Female,74500.0,Social Media,9.86,False,,,,False,None,0.0,False,18-25,High,0.0
+CUST0075,West,51,Female,76400.0,Social Media,13.36,False,,,,False,None,0.0,False,46-55,High,0.0
+CUST0076,West,34,Female,83300.0,Google Ads,20.39,True,8.0,8.6,7.4,True,Standard,19.25,False,26-35,High,2.2384
+CUST0077,West,27,Male,72000.0,Social Media,8.44,True,1.0,20.1,8.0,False,None,0.0,False,26-35,High,0.0
+CUST0078,North,35,Female,67100.0,Google Ads,18.64,False,,,,False,None,0.0,False,26-35,Mid,0.0
+CUST0079,South,32,Non-binary,44100.0,Referral,3.99,True,8.0,7.0,5.4,False,None,0.0,False,26-35,Mid,0.0
+CUST0080,North,32,Female,74400.0,Social Media,11.84,True,13.0,17.8,7.6,True,Standard,19.36,False,26-35,High,1.0876
+CUST0081,Central,39,Male,43200.0,Social Media,12.7,True,1.0,21.8,9.8,True,Standard,19.6,False,36-45,Mid,0.8991
+CUST0082,East,40,Male,73000.0,Referral,4.03,True,2.0,18.7,8.0,False,None,0.0,False,36-45,High,0.0
+CUST0083,South,29,Male,44600.0,Google Ads,16.65,True,2.0,17.3,8.9,False,None,0.0,False,26-35,Mid,0.0
+CUST0084,North,28,Female,45700.0,Referral,5.07,True,10.0,10.2,6.8,False,None,0.0,False,26-35,Mid,0.0
+CUST0085,South,31,Female,46300.0,Referral,2.83,True,1.0,19.4,8.5,False,None,0.0,False,26-35,Mid,0.0
+CUST0086,South,18,Male,38200.0,Email,0.83,True,1.0,13.5,7.7,True,Basic,10.03,False,18-25,Low,0.743
+CUST0087,West,20,Female,78400.0,Referral,6.36,False,,,,False,None,0.0,False,18-25,High,0.0
+CUST0088,East,46,Female,48500.0,Google Ads,15.7,True,1.0,25.2,7.8,False,None,0.0,False,46-55,Mid,0.0
+CUST0089,Central,48,Female,45500.0,Referral,6.33,False,,,,False,None,0.0,False,46-55,Mid,0.0
+CUST0090,East,31,Female,36100.0,Social Media,12.93,True,2.0,18.3,6.1,False,None,0.0,False,26-35,Low,0.0
+CUST0091,North,39,Female,55500.0,Google Ads,14.55,False,,,,False,None,0.0,False,36-45,Mid,0.0
+CUST0092,West,36,Female,45800.0,Email,1.64,False,,,,False,None,0.0,False,36-45,Mid,0.0
+CUST0093,West,61,Male,54200.0,Google Ads,20.39,False,,,,False,None,0.0,False,56-65,Mid,0.0
+CUST0094,East,44,Female,62600.0,Email,1.04,False,,,,False,None,0.0,False,36-45,Mid,0.0
+CUST0095,West,32,Female,77900.0,Email,2.07,True,4.0,16.2,8.2,True,Basic,9.67,False,26-35,High,0.5969
+CUST0096,East,25,Female,59300.0,Email,3.92,False,,,,False,None,0.0,False,18-25,Mid,0.0
+CUST0097,East,19,Female,45300.0,Organic,1.57,True,7.0,19.9,4.4,True,Premium,40.32,False,18-25,Mid,2.0261
+CUST0098,East,35,Female,54500.0,Google Ads,17.5,True,1.0,19.2,6.9,False,None,0.0,False,26-35,Mid,0.0
+CUST0099,North,27,Male,60000.0,Google Ads,16.8,False,,,,False,None,0.0,False,26-35,Mid,0.0
+CUST0100,North,21,Male,48400.0,Referral,7.84,True,1.0,19.7,7.4,False,None,0.0,False,18-25,Mid,0.0
+CUST0101,North,28,Male,75000.0,Google Ads,21.48,False,,,,False,None,0.0,False,26-35,High,0.0
+CUST0102,East,24,Male,63800.0,Referral,6.96,True,2.0,14.2,3.6,True,Standard,20.5,False,18-25,Mid,1.4437
+CUST0103,South,49,Female,42800.0,Referral,5.17,False,,,,False,None,0.0,False,46-55,Mid,0.0
+CUST0104,East,41,Non-binary,55300.0,Referral,3.38,True,1.0,11.6,6.6,False,None,0.0,False,36-45,Mid,0.0
+CUST0105,Central,33,Male,,Google Ads,16.34,True,1.0,30.7,8.3,False,None,0.0,False,26-35,,0.0
+CUST0106,South,47,Male,24600.0,Social Media,13.05,False,,,,False,None,0.0,False,46-55,Low,0.0
+CUST0107,East,34,Female,52500.0,Google Ads,18.84,False,,,,False,None,0.0,False,26-35,Mid,0.0
+CUST0108,West,26,Male,63200.0,Social Media,14.8,False,,,,False,None,0.0,False,26-35,Mid,0.0
+CUST0109,South,47,Female,35000.0,Email,4.3,True,5.0,18.4,9.6,False,None,0.0,False,46-55,Low,0.0
+CUST0110,North,38,Female,57200.0,Google Ads,14.99,False,,,,False,None,0.0,False,36-45,Mid,0.0
+CUST0111,South,24,Female,63000.0,Social Media,14.1,False,,,,False,None,0.0,False,18-25,Mid,0.0
+CUST0112,North,32,Male,66400.0,Social Media,10.0,True,11.0,12.5,7.3,False,None,0.0,False,26-35,Mid,0.0
+CUST0113,Central,26,Male,44300.0,Referral,4.23,True,1.0,25.4,9.3,True,Premium,40.29,False,26-35,Mid,1.5862
+CUST0114,West,21,Female,75700.0,Referral,5.5,True,1.0,15.6,6.5,False,None,0.0,False,18-25,High,0.0
+CUST0115,East,42,Female,69000.0,Google Ads,21.742499999999996,True,2.0,24.4,5.2,False,None,0.0,False,36-45,Mid,0.0
+CUST0116,Central,51,Male,59200.0,Social Media,18.22,False,,,,False,None,0.0,False,46-55,Mid,0.0
+CUST0117,West,21,Female,70600.0,Google Ads,19.21,False,,,,False,None,0.0,False,18-25,High,0.0
+CUST0118,North,39,Male,53500.0,Google Ads,17.63,True,8.0,9.1,7.6,True,Standard,20.8,False,36-45,Mid,2.2857
+CUST0119,Central,28,Female,57000.0,Referral,6.07,True,5.0,25.6,9.4,False,None,0.0,False,26-35,Mid,0.0
+CUST0120,East,29,Male,58900.0,Referral,6.78,True,8.0,24.9,5.3,True,Standard,20.2,False,26-35,Mid,0.8112
+CUST0121,West,28,Female,79000.0,Google Ads,17.36,False,,,,True,Premium,39.38,False,26-35,High,0.0
+CUST0122,Central,26,Male,56400.0,Social Media,15.59,False,,,,False,None,0.0,False,26-35,Mid,0.0
+CUST0123,South,34,Male,55500.0,Organic,0.46,True,6.0,20.0,7.0,False,None,0.0,False,26-35,Mid,0.0
+CUST0124,North,26,Male,54600.0,Google Ads,19.0,True,2.0,16.6,7.3,False,None,0.0,False,26-35,Mid,0.0
+CUST0125,South,36,Male,58200.0,Referral,6.33,True,5.0,13.1,4.5,True,Premium,40.67,False,36-45,Mid,3.1046
+CUST0126,East,33,Female,57000.0,Social Media,12.84,False,,,,False,None,0.0,False,26-35,Mid,0.0
+CUST0127,West,31,Non-binary,90800.0,Google Ads,19.68,True,1.0,30.3,9.6,False,None,0.0,False,26-35,High,0.0
+CUST0128,Central,25,Male,43100.0,Social Media,10.77,True,21.299999999999955,18.0,8.8,True,Premium,39.69,False,18-25,Mid,2.205
+CUST0129,North,28,Male,77400.0,Google Ads,16.88,True,1.0,22.7,7.1,False,None,0.0,False,26-35,High,0.0
+CUST0130,East,40,Female,57000.0,Organic,0.0,False,,,,True,Basic,10.45,False,36-45,Mid,0.0
+CUST0131,East,38,Female,48500.0,Google Ads,18.88,True,18.0,13.3,6.7,True,Standard,20.78,False,36-45,Mid,1.5624
+CUST0132,South,25,Female,40200.0,Social Media,13.56,True,7.0,24.5,9.6,False,None,0.0,False,18-25,Mid,0.0
+CUST0133,North,34,Male,56800.0,Social Media,12.92,False,,,,False,None,0.0,False,26-35,Mid,0.0
+CUST0134,South,40,Male,49200.0,Google Ads,21.35,True,4.0,15.5,7.6,False,None,0.0,False,36-45,Mid,0.0
+CUST0135,Central,18,Female,55200.0,Social Media,11.99,False,,,,False,None,0.0,False,18-25,Mid,0.0
+CUST0136,South,38,Male,39300.0,Social Media,13.34,False,,,,False,None,0.0,False,36-45,Low,0.0
+CUST0137,East,28,Female,54800.0,Email,0.82,True,3.0,16.9,10.0,False,None,0.0,False,26-35,Mid,0.0
+CUST0138,West,39,Male,91400.0,Google Ads,17.23,True,4.0,20.4,4.4,False,None,0.0,False,36-45,High,0.0
+CUST0139,South,27,Female,62300.0,Social Media,13.39,False,,,,False,None,0.0,False,26-35,Mid,0.0
+CUST0140,Central,18,Male,54400.0,Organic,1.7,False,,,,True,Basic,10.22,False,18-25,Mid,0.0
+CUST0141,Central,19,Female,50400.0,Social Media,11.41,False,,,,False,None,0.0,False,18-25,Mid,0.0
+CUST0142,South,34,Female,46200.0,Organic,0.0,False,,,,False,None,0.0,False,26-35,Mid,0.0
+CUST0143,East,36,Female,61100.0,Google Ads,14.96,True,9.0,25.2,6.4,False,None,0.0,False,36-45,Mid,0.0
+CUST0144,South,25,Male,34800.0,Email,2.29,False,,,,True,Standard,19.24,False,18-25,Low,0.0
+CUST0145,South,39,Female,42400.0,Referral,6.78,True,13.0,9.8,6.1,False,None,0.0,False,36-45,Mid,0.0
+CUST0146,North,19,Female,43300.0,Email,4.15,False,,,,False,None,0.0,False,18-25,Mid,0.0
+CUST0147,East,33,Female,59000.0,Organic,1.0,True,8.0,6.1,8.9,False,None,0.0,False,26-35,Mid,0.0
+CUST0148,East,23,Female,61500.0,Social Media,12.1,True,4.0,18.3,7.6,False,None,0.0,False,18-25,Mid,0.0
+CUST0149,North,28,Female,55200.0,Organic,0.01,False,,,,False,None,0.0,False,26-35,Mid,0.0
+CUST0150,South,34,Female,60700.0,Google Ads,16.68,False,,,,False,None,0.0,False,26-35,Mid,0.0
+CUST0151,Central,26,Male,37700.0,Google Ads,19.4,True,8.0,13.0,5.6,True,Standard,19.53,False,26-35,Low,1.5023
+CUST0152,South,30,Female,30400.0,Google Ads,18.84,True,1.0,22.6,10.0,False,None,0.0,False,26-35,Low,0.0
+CUST0153,North,43,Female,62200.0,Google Ads,18.98,True,11.0,8.7,5.9,False,None,0.0,False,36-45,Mid,0.0
+CUST0154,East,28,Male,65500.0,Social Media,10.95,True,21.299999999999955,14.2,10.0,False,None,0.0,False,26-35,Mid,0.0
+CUST0155,Central,41,Male,66800.0,Referral,0.69,True,1.0,21.6,6.8,False,None,0.0,False,36-45,Mid,0.0
+CUST0156,South,23,Male,40400.0,Google Ads,20.19,True,1.0,14.2,7.2,False,None,0.0,False,18-25,Mid,0.0
+CUST0157,West,38,Female,80800.0,Email,2.04,True,7.0,16.6,9.1,False,None,0.0,False,36-45,High,0.0
+CUST0158,West,46,Female,69600.0,Email,1.27,False,,,,False,None,0.0,False,46-55,Mid,0.0
+CUST0159,South,18,Female,43300.0,Google Ads,19.39,False,,,,False,None,0.0,False,18-25,Mid,0.0
+CUST0160,West,26,Female,78800.0,Google Ads,17.22,False,,,,False,None,0.0,False,26-35,High,0.0
+CUST0161,South,39,Male,51500.0,Social Media,14.12,True,1.0,16.0,7.1,False,None,0.0,False,36-45,Mid,0.0
+CUST0162,East,32,Male,39200.0,Social Media,13.23,False,,,,False,None,0.0,False,26-35,Low,0.0
+CUST0163,East,37,Male,69800.0,Social Media,13.37,False,,,,True,Basic,10.65,False,36-45,Mid,0.0
+CUST0164,East,28,Male,68800.0,Google Ads,15.27,False,,,,False,None,0.0,False,26-35,Mid,0.0
+CUST0165,North,34,Male,53700.0,Social Media,14.42,True,1.0,15.0,8.3,True,Standard,19.91,False,26-35,Mid,1.3273
+CUST0166,West,32,Male,74000.0,Organic,0.52,False,,,,False,None,0.0,False,26-35,High,0.0
+CUST0167,South,44,Female,49900.0,Referral,4.26,False,,,,False,None,0.0,False,36-45,Mid,0.0
+CUST0168,North,36,Female,62600.0,Google Ads,18.29,False,,,,False,None,0.0,False,36-45,Mid,0.0
+CUST0169,North,37,Non-binary,54500.0,Referral,1.45,False,,,,False,None,0.0,False,36-45,Mid,0.0
+CUST0170,East,30,Female,48300.0,Social Media,12.82,True,4.0,11.3,2.5,False,None,0.0,False,26-35,Mid,0.0
+CUST0171,West,29,Female,69700.0,Google Ads,15.94,True,2.0,19.6,7.9,False,None,0.0,False,26-35,Mid,0.0
+CUST0172,North,30,Male,71700.0,Referral,2.29,True,1.0,19.3,7.0,False,None,0.0,False,26-35,High,0.0
+CUST0173,East,37,Female,60400.0,Google Ads,14.96,False,,,,False,None,0.0,False,36-45,Mid,0.0
+CUST0174,South,30,Female,41300.0,Google Ads,20.23,True,1.0,15.4,7.6,False,None,0.0,False,26-35,Mid,0.0
+CUST0175,East,36,Male,62700.0,Organic,0.0,False,,,,False,None,0.0,False,36-45,Mid,0.0
+CUST0176,North,52,Male,31500.0,Email,6.07,True,1.0,21.3,9.2,False,None,0.0,False,46-55,Low,0.0
+CUST0177,West,41,Female,81500.0,Referral,3.93,True,4.0,20.7,7.4,True,Standard,20.03,False,36-45,High,0.9676
+CUST0178,South,31,Male,27600.0,Referral,1.59,False,,,,False,None,0.0,False,26-35,Low,0.0
+CUST0179,Central,44,Female,46400.0,Referral,2.77,True,1.0,18.9,9.0,False,None,0.0,False,36-45,Mid,0.0
+CUST0180,North,30,Female,48800.0,Social Media,14.47,True,1.0,20.2,6.8,True,Premium,40.37,False,26-35,Mid,1.9985
+CUST0181,South,18,Male,32100.0,Google Ads,17.69,False,,,,False,None,0.0,False,18-25,Low,0.0
+CUST0182,North,24,Male,71600.0,Social Media,10.9,True,4.0,5.5,6.3,False,None,0.0,False,18-25,High,0.0
+CUST0183,Central,18,Male,45300.0,Google Ads,18.32,False,,,,False,None,0.0,False,18-25,Mid,0.0
+CUST0184,Central,30,Male,53500.0,Google Ads,19.0,True,1.0,30.789999999999985,7.4,True,Standard,20.34,False,26-35,Mid,0.6498
+CUST0185,South,34,Male,44500.0,Social Media,14.23,False,,,,False,None,0.0,False,26-35,Mid,0.0
+CUST0186,West,49,Female,74800.0,Organic,2.9,False,,,,False,None,0.0,False,46-55,High,0.0
+CUST0187,West,36,Male,70800.0,Organic,0.0,True,3.0,20.2,6.7,False,None,0.0,False,36-45,High,0.0
+CUST0188,East,32,Female,42200.0,Referral,2.35,True,13.0,19.9,3.9,False,None,0.0,False,26-35,Mid,0.0
+CUST0189,East,41,Male,65000.0,Google Ads,17.17,True,2.0,25.2,6.4,False,None,0.0,False,36-45,Mid,0.0
+CUST0190,South,18,Female,,Email,3.52,True,3.0,10.5,8.6,False,None,0.0,False,18-25,,0.0
+CUST0191,North,36,Male,44400.0,Social Media,10.07,True,1.0,22.4,6.7,False,None,0.0,False,36-45,Mid,0.0
+CUST0192,Central,40,Male,45700.0,Email,1.09,False,,,,False,None,0.0,False,36-45,Mid,0.0
+CUST0193,Central,20,Female,65000.0,Social Media,12.69,False,,,,False,None,0.0,False,18-25,Mid,0.0
+CUST0194,East,44,Female,,Email,2.9,False,,,,False,None,0.0,False,36-45,,0.0
+CUST0195,South,37,Male,41500.0,Social Media,12.07,True,4.0,24.2,4.4,False,None,0.0,False,36-45,Mid,0.0
+CUST0196,South,30,Female,41500.0,Email,1.48,False,,,,False,None,0.0,False,26-35,Mid,0.0
+CUST0197,West,39,Male,66800.0,Organic,0.0,False,,,,False,None,0.0,False,36-45,Mid,0.0
+CUST0198,Central,54,Female,70800.0,Social Media,10.15,False,,,,False,None,0.0,False,46-55,High,0.0
+CUST0199,Central,35,Male,53800.0,Google Ads,19.78,True,1.0,17.6,6.9,False,None,0.0,False,26-35,Mid,0.0
+CUST0200,West,36,Male,74300.0,Organic,2.07,False,,,,False,None,0.0,False,36-45,High,0.0
+CUST0201,East,29,Female,65300.0,Google Ads,14.31,False,,,,False,None,0.0,False,26-35,Mid,0.0
+CUST0202,North,26,Female,62400.0,Email,1.14,True,1.0,17.1,7.8,False,None,0.0,False,26-35,Mid,0.0
+CUST0203,North,41,Male,57400.0,Referral,2.01,False,,,,False,None,0.0,False,36-45,Mid,0.0
+CUST0204,Central,26,Female,48000.0,Google Ads,16.7,False,,,,False,None,0.0,False,26-35,Mid,0.0
+CUST0205,East,34,Female,54300.0,Social Media,11.83,True,4.0,11.3,7.7,False,None,0.0,False,26-35,Mid,0.0
+CUST0206,North,29,Male,59600.0,Social Media,9.1,True,3.0,15.6,6.3,True,Premium,40.13,False,26-35,Mid,2.5724
+CUST0207,North,38,Female,67300.0,Email,1.16,True,1.0,19.1,5.7,False,None,0.0,False,36-45,Mid,0.0
+CUST0208,West,37,Male,70500.0,Google Ads,15.99,False,,,,False,None,0.0,False,36-45,High,0.0
+CUST0209,North,43,Female,67300.0,Google Ads,18.41,True,4.0,21.6,6.3,True,Standard,19.89,False,36-45,Mid,0.9208
+CUST0210,North,29,Female,59200.0,Google Ads,18.14,True,2.0,12.9,7.8,False,None,0.0,False,26-35,Mid,0.0
+CUST0211,East,31,Female,55800.0,Referral,3.56,True,12.0,30.789999999999985,10.0,False,None,0.0,False,26-35,Mid,0.0
+CUST0212,West,25,Male,50000.0,Email,3.35,False,,,,False,None,0.0,False,18-25,Mid,0.0
+CUST0213,West,30,Male,79200.0,Organic,0.0,True,1.0,25.7,6.5,False,None,0.0,False,26-35,High,0.0
+CUST0214,South,37,Male,48500.0,Google Ads,17.46,True,6.0,17.1,7.1,False,None,0.0,False,36-45,Mid,0.0
+CUST0215,West,40,Male,80000.0,Email,6.35,False,,,,False,None,0.0,False,36-45,High,0.0
+CUST0216,South,25,Male,20000.0,Email,5.68,True,3.0,23.0,7.7,True,Basic,9.83,False,18-25,Low,0.4274
+CUST0217,South,41,Female,,Referral,2.4,True,5.0,25.3,9.5,False,None,0.0,False,36-45,,0.0
+CUST0218,West,46,Male,68600.0,Organic,1.66,True,11.0,24.3,2.8,False,None,0.0,False,46-55,Mid,0.0
+CUST0219,East,37,Male,66100.0,Social Media,13.62,True,7.0,23.2,2.9,False,None,0.0,False,36-45,Mid,0.0
+CUST0220,West,50,Female,59600.0,Social Media,9.7,False,,,,False,None,0.0,False,46-55,Mid,0.0
+CUST0221,West,27,Male,,Email,4.64,True,5.0,14.6,9.2,True,Basic,10.42,False,26-35,,0.7137
+CUST0222,East,22,Female,44500.0,Google Ads,21.08,True,14.0,20.0,4.4,False,None,0.0,False,18-25,Mid,0.0
+CUST0223,North,18,Male,53800.0,Email,0.75,True,1.0,23.6,1.8,False,None,0.0,False,18-25,Mid,0.0
+CUST0224,South,47,Female,64100.0,Email,1.16,True,1.0,16.7,8.2,False,None,0.0,False,46-55,Mid,0.0
+CUST0225,South,39,Male,43100.0,Social Media,14.04,False,,,,False,None,0.0,False,36-45,Mid,0.0
+CUST0226,South,33,Male,47200.0,Email,3.54,True,1.0,26.7,5.2,False,None,0.0,False,26-35,Mid,0.0
+CUST0227,Central,36,Female,58700.0,Google Ads,19.1,True,5.0,12.5,5.4,False,None,0.0,False,36-45,Mid,0.0
+CUST0228,South,23,Male,50000.0,Google Ads,18.68,False,,,,False,None,0.0,False,18-25,Mid,0.0
+CUST0229,Central,56,Female,51500.0,Referral,5.78,True,4.0,17.2,7.4,True,Standard,20.27,False,56-65,Mid,1.1785
+CUST0230,East,35,Male,58600.0,Organic,0.0,False,,,,False,None,0.0,False,26-35,Mid,0.0
+CUST0231,West,34,Male,94000.0,Social Media,14.09,False,,,,True,Standard,19.86,False,26-35,High,0.0
+CUST0232,East,40,Female,54400.0,Google Ads,20.34,True,1.0,26.1,2.1,False,None,0.0,False,36-45,Mid,0.0
+CUST0233,East,38,Male,57000.0,Referral,4.54,True,5.0,20.5,5.7,False,None,0.0,False,36-45,Mid,0.0
+CUST0234,East,36,Female,65500.0,Referral,4.91,True,4.0,18.2,5.2,False,None,0.0,False,36-45,Mid,0.0
+CUST0235,North,26,Non-binary,71100.0,Referral,1.94,True,2.0,9.4,6.7,False,None,0.0,False,26-35,High,0.0
+CUST0236,West,38,Female,81900.0,Social Media,13.03,False,,,,False,None,0.0,False,36-45,High,0.0
+CUST0237,South,50,Female,51400.0,Social Media,13.14,False,,,,False,None,0.0,False,46-55,Mid,0.0
+CUST0238,North,46,Male,48600.0,Google Ads,17.88,False,,,,False,None,0.0,False,46-55,Mid,0.0
+CUST0239,East,48,Male,71300.0,Email,5.25,True,12.0,24.1,7.3,False,None,0.0,False,46-55,High,0.0
+CUST0240,North,29,Male,48500.0,Social Media,11.33,True,5.0,17.1,8.2,True,Basic,10.53,False,26-35,Mid,0.6158
+CUST0241,Central,25,Female,53000.0,Social Media,13.13,True,1.0,30.789999999999985,10.0,True,Standard,19.93,False,18-25,Mid,0.5315
+CUST0242,Central,32,Non-binary,42500.0,Organic,0.0,False,,,,False,None,0.0,False,26-35,Mid,0.0
+CUST0243,Central,34,Male,49400.0,Social Media,11.95,True,6.0,16.9,7.8,False,None,0.0,False,26-35,Mid,0.0
+CUST0244,South,43,Female,,Organic,0.0,True,7.0,17.4,4.0,True,Basic,9.56,False,36-45,,0.5494
+CUST0245,North,18,Male,63200.0,Referral,5.45,False,,,,False,None,0.0,False,18-25,Mid,0.0
+CUST0246,Central,47,Female,54200.0,Email,2.26,False,,,,False,None,0.0,False,46-55,Mid,0.0
+CUST0247,East,32,Male,71100.0,Social Media,11.74,False,,,,False,None,0.0,False,26-35,High,0.0
+CUST0248,Central,30,Non-binary,54500.0,Social Media,13.65,True,2.0,7.3,9.3,False,None,0.0,False,26-35,Mid,0.0
+CUST0249,Central,24,Female,47600.0,Referral,4.13,True,1.0,14.3,4.7,True,Basic,9.61,False,18-25,Mid,0.672
+CUST0250,Central,19,Male,59600.0,Email,0.0,False,,,,False,None,0.0,False,18-25,Mid,0.0
+CUST0251,South,41,Male,56900.0,Referral,8.5,True,3.0,21.0,10.0,False,None,0.0,False,36-45,Mid,0.0
+CUST0252,South,34,Male,32700.0,Social Media,14.76,True,9.0,24.4,8.0,False,None,0.0,False,26-35,Low,0.0
+CUST0253,Central,22,Male,56000.0,Email,0.42,True,15.0,10.8,7.7,False,None,0.0,False,18-25,Mid,0.0
+CUST0254,South,22,Male,52000.0,Email,4.38,True,4.0,4.1,7.2,True,Standard,19.5,False,18-25,Mid,4.7561
+CUST0255,North,30,Female,57000.0,Referral,3.99,True,3.0,23.1,4.4,False,None,0.0,False,26-35,Mid,0.0
+CUST0256,East,49,Female,68800.0,Email,3.53,False,,,,False,None,0.0,False,46-55,Mid,0.0
+CUST0257,Central,31,Female,48500.0,Email,3.59,True,3.0,5.9,6.1,False,None,0.0,False,26-35,Mid,0.0
+CUST0258,West,20,Male,71300.0,Referral,4.53,True,2.0,18.9,8.1,True,Basic,9.85,False,18-25,High,0.5212
+CUST0259,East,31,Female,53300.0,Social Media,10.43,True,4.0,22.8,4.4,False,None,0.0,False,26-35,Mid,0.0
+CUST0260,North,31,Female,60200.0,Google Ads,16.62,True,2.0,17.3,5.1,False,None,0.0,False,26-35,Mid,0.0
+CUST0261,East,18,Male,44000.0,Social Media,10.17,True,1.0,15.3,9.8,False,None,0.0,False,18-25,Mid,0.0
+CUST0262,Central,33,Female,35600.0,Google Ads,16.34,True,1.0,17.0,6.6,True,Standard,20.61,False,26-35,Low,1.2124
+CUST0263,North,31,Female,75900.0,Google Ads,17.87,True,1.0,15.8,9.8,False,None,0.0,False,26-35,High,0.0
+CUST0264,East,40,Male,46500.0,Social Media,10.57,True,1.0,9.9,7.1,False,None,0.0,False,36-45,Mid,0.0
+CUST0265,Central,50,Male,40100.0,Google Ads,19.36,False,,,,False,None,0.0,False,46-55,Mid,0.0
+CUST0266,West,44,Female,48500.0,Social Media,14.97,True,21.0,21.1,8.8,True,Standard,19.59,False,36-45,Mid,0.9284
+CUST0267,West,31,Male,63600.0,Email,1.84,False,,,,False,None,0.0,False,26-35,Mid,0.0
+CUST0268,West,24,Female,56800.0,Organic,0.48,False,,,,False,None,0.0,False,18-25,Mid,0.0
+CUST0269,South,57,Female,61400.0,Social Media,13.0,True,10.0,12.0,7.2,False,None,0.0,False,56-65,Mid,0.0
+CUST0270,South,34,Female,55100.0,Organic,0.94,False,,,,False,None,0.0,False,26-35,Mid,0.0
+CUST0271,West,34,Male,63100.0,Google Ads,18.15,True,4.0,4.9,7.5,False,None,0.0,False,26-35,Mid,0.0
+CUST0272,West,33,Male,92500.0,Social Media,13.49,True,8.0,19.1,10.0,False,None,0.0,False,26-35,High,0.0
+CUST0273,Central,35,Female,59800.0,Social Media,12.96,False,,,,False,None,0.0,False,26-35,Mid,0.0
+CUST0274,Central,32,Female,46800.0,Google Ads,15.52,True,1.0,9.2,7.1,False,None,0.0,False,26-35,Mid,0.0
+CUST0275,East,28,Male,30000.0,Email,4.74,False,,,,False,None,0.0,False,26-35,Low,0.0
+CUST0276,East,29,Female,77900.0,Referral,6.77,True,5.0,20.0,7.6,True,Basic,10.08,False,26-35,High,0.504
+CUST0277,West,33,Female,56100.0,Social Media,10.47,False,,,,True,Standard,19.66,False,26-35,Mid,0.0
+CUST0278,East,29,Male,38500.0,Social Media,12.08,True,1.0,15.3,5.2,False,None,0.0,False,26-35,Low,0.0
+CUST0279,West,27,Male,80200.0,Google Ads,19.37,False,,,,False,None,0.0,False,26-35,High,0.0
+CUST0280,West,34,Female,94400.0,Social Media,11.58,True,5.0,6.2,9.1,False,None,0.0,False,26-35,High,0.0
+CUST0281,Central,31,Male,63800.0,Social Media,14.15,False,,,,False,None,0.0,False,26-35,Mid,0.0
+CUST0282,South,47,Male,50600.0,Social Media,16.73,False,,,,False,None,0.0,False,46-55,Mid,0.0
+CUST0283,South,18,Male,50900.0,Email,1.43,False,,,,False,None,0.0,False,18-25,Mid,0.0
+CUST0284,North,43,Male,68500.0,Organic,0.0,False,,,,False,None,0.0,False,36-45,Mid,0.0
+CUST0285,East,45,Female,62600.0,Google Ads,18.61,False,,,,False,None,0.0,False,36-45,Mid,0.0
+CUST0286,North,33,Female,62800.0,Organic,1.44,False,,,,False,None,0.0,False,26-35,Mid,0.0
+CUST0287,East,30,Male,56000.0,Google Ads,17.54,False,,,,False,None,0.0,False,26-35,Mid,0.0
+CUST0288,East,30,Female,54400.0,Google Ads,20.91,True,6.0,22.9,6.7,False,None,0.0,False,26-35,Mid,0.0
+CUST0289,South,21,Female,37500.0,Social Media,9.32,False,,,,False,None,0.0,False,18-25,Low,0.0
+CUST0290,East,26,Female,52200.0,Referral,6.39,True,1.0,18.1,8.1,False,None,0.0,False,26-35,Mid,0.0
+CUST0291,North,24,Male,43100.0,Organic,0.0,True,1.0,12.1,7.7,False,None,0.0,False,18-25,Mid,0.0
+CUST0292,North,49,Male,59000.0,Referral,8.44,False,,,,False,None,0.0,False,46-55,Mid,0.0
+CUST0293,West,42,Non-binary,60100.0,Google Ads,21.742499999999996,False,,,,False,None,0.0,False,36-45,Mid,0.0
+CUST0294,South,45,Female,34000.0,Referral,3.47,True,4.0,14.7,8.9,True,Standard,19.86,False,36-45,Low,1.351
+CUST0295,North,40,Male,61800.0,Social Media,10.9,True,9.0,24.0,7.0,False,None,0.0,False,36-45,Mid,0.0
+CUST0296,East,23,Male,68900.0,Email,4.72,True,1.0,15.0,6.3,False,None,0.0,False,18-25,Mid,0.0
+CUST0297,West,29,Male,79200.0,Google Ads,17.23,True,1.0,13.3,4.8,False,None,0.0,False,26-35,High,0.0
+CUST0298,North,38,Female,44300.0,Google Ads,17.91,False,,,,False,None,0.0,False,36-45,Mid,0.0
+CUST0299,East,23,Female,45100.0,Referral,5.05,False,,,,False,None,0.0,False,18-25,Mid,0.0
+CUST0300,North,40,Female,69400.0,Referral,1.16,False,,,,False,None,0.0,False,36-45,Mid,0.0
+CUST0301,North,31,Male,50200.0,Social Media,11.97,False,,,,False,None,0.0,False,26-35,Mid,0.0
+CUST0302,East,30,Female,52800.0,Referral,3.62,True,3.0,10.6,5.5,False,None,0.0,False,26-35,Mid,0.0
+CUST0303,East,40,Female,60500.0,Social Media,11.01,True,1.0,5.5,7.1,False,None,0.0,False,36-45,Mid,0.0
+CUST0304,East,37,Male,45300.0,Referral,7.89,False,,,,False,None,0.0,False,36-45,Mid,0.0
+CUST0305,West,30,Female,71100.0,Email,0.49,True,1.0,17.1,10.0,True,Standard,19.23,False,26-35,High,1.1246
+CUST0306,Central,44,Non-binary,36700.0,Email,4.63,False,,,,False,None,0.0,False,36-45,Low,0.0
+CUST0307,East,24,Male,49000.0,Referral,4.44,False,,,,False,None,0.0,False,18-25,Mid,0.0
+CUST0308,South,39,Female,48200.0,Google Ads,17.44,False,,,,True,Premium,39.88,False,36-45,Mid,0.0
+CUST0309,West,39,Male,54100.0,Social Media,13.58,False,,,,False,None,0.0,False,36-45,Mid,0.0
+CUST0310,South,31,Female,49400.0,Email,3.68,True,8.0,14.7,7.6,False,None,0.0,False,26-35,Mid,0.0
+CUST0311,East,36,Female,54800.0,Social Media,13.14,True,1.0,19.9,6.4,False,None,0.0,False,36-45,Mid,0.0
+CUST0312,North,22,Female,65500.0,Google Ads,19.94,False,,,,False,None,0.0,False,18-25,Mid,0.0
+CUST0313,North,42,Female,62200.0,Social Media,11.34,True,5.0,19.1,9.9,False,None,0.0,False,36-45,Mid,0.0
+CUST0314,Central,32,Male,63600.0,Social Media,10.78,True,1.0,25.8,8.3,False,None,0.0,False,26-35,Mid,0.0
+CUST0315,West,29,Female,71300.0,Referral,2.83,True,1.0,21.5,8.1,True,Standard,19.89,False,26-35,High,0.9251
+CUST0316,West,43,Female,65700.0,Social Media,10.35,False,,,,False,None,0.0,False,36-45,Mid,0.0
+CUST0317,East,27,Male,56200.0,Referral,10.9,False,,,,False,None,0.0,False,26-35,Mid,0.0
+CUST0318,North,21,Female,65400.0,Google Ads,20.49,False,,,,False,None,0.0,False,18-25,Mid,0.0
+CUST0319,North,19,Female,60500.0,Social Media,9.3,False,,,,False,None,0.0,False,18-25,Mid,0.0
+CUST0320,South,39,Male,45400.0,Google Ads,15.36,False,,,,False,None,0.0,False,36-45,Mid,0.0
+CUST0321,East,22,Female,48000.0,Social Media,12.96,False,,,,False,None,0.0,False,18-25,Mid,0.0
+CUST0322,West,49,Female,63400.0,Social Media,13.09,False,,,,False,None,0.0,False,46-55,Mid,0.0
+CUST0323,West,18,Male,56000.0,Referral,6.1,True,3.0,12.0,5.4,False,None,0.0,False,18-25,Mid,0.0
+CUST0324,South,49,Non-binary,62500.0,Social Media,11.49,True,1.0,11.9,5.8,False,None,0.0,False,46-55,Mid,0.0
+CUST0325,Central,35,Male,37600.0,Email,2.75,True,6.0,9.7,6.4,False,None,0.0,False,26-35,Low,0.0
+CUST0326,West,33,Male,63100.0,Social Media,12.66,False,,,,False,None,0.0,False,26-35,Mid,0.0
+CUST0327,East,29,Male,47800.0,Social Media,12.17,True,2.0,10.7,5.4,False,None,0.0,False,26-35,Mid,0.0
+CUST0328,East,37,Female,63900.0,Referral,0.56,True,12.0,19.0,8.5,False,None,0.0,False,36-45,Mid,0.0
+CUST0329,East,33,Female,52100.0,Google Ads,17.54,True,1.0,12.6,4.8,False,None,0.0,False,26-35,Mid,0.0
+CUST0330,South,43,Male,57500.0,Social Media,10.3,True,1.0,21.1,4.3,False,None,0.0,False,36-45,Mid,0.0
+CUST0331,South,35,Male,38300.0,Google Ads,18.35,False,,,,False,None,0.0,False,26-35,Low,0.0
+CUST0332,West,35,Female,72800.0,Social Media,17.97,False,,,,False,None,0.0,False,26-35,High,0.0
+CUST0333,North,30,Male,51600.0,Email,3.73,False,,,,False,None,0.0,False,26-35,Mid,0.0
+CUST0334,North,33,Female,81500.0,Google Ads,17.37,False,,,,False,None,0.0,False,26-35,High,0.0
+CUST0335,North,36,Female,48100.0,Email,4.84,False,,,,False,None,0.0,False,36-45,Mid,0.0
+CUST0336,North,18,Female,63100.0,Email,3.97,True,2.0,20.5,4.1,False,None,0.0,False,18-25,Mid,0.0
+CUST0337,Central,21,Non-binary,56300.0,Google Ads,18.84,True,7.0,12.9,8.1,False,None,0.0,False,18-25,Mid,0.0
+CUST0338,West,40,Male,74100.0,Organic,1.21,False,,,,True,Premium,40.26,False,36-45,High,0.0
+CUST0339,East,35,Non-binary,53100.0,Google Ads,21.742499999999996,True,2.0,10.4,6.5,False,None,0.0,False,26-35,Mid,0.0
+CUST0340,North,32,Female,58700.0,Organic,0.0,False,,,,False,None,0.0,False,26-35,Mid,0.0
+CUST0341,East,34,Female,55400.0,Social Media,12.95,False,,,,False,None,0.0,False,26-35,Mid,0.0
+CUST0342,East,37,Male,53500.0,Referral,3.15,True,1.0,17.3,9.2,False,None,0.0,False,36-45,Mid,0.0
+CUST0343,North,29,Female,69600.0,Google Ads,19.11,True,4.0,15.6,7.5,True,Basic,10.1,True,26-35,Mid,0.6474
+CUST0344,East,26,Male,77100.0,Google Ads,16.16,False,,,,False,None,0.0,False,26-35,High,0.0
+CUST0345,South,35,Male,39400.0,Referral,4.17,False,,,,True,Premium,39.39,False,26-35,Low,0.0
+CUST0346,East,25,Male,41300.0,Referral,4.41,False,,,,False,None,0.0,False,18-25,Mid,0.0
+CUST0347,East,37,Female,54100.0,Social Media,13.95,True,2.0,17.7,9.4,False,None,0.0,False,36-45,Mid,0.0
+CUST0348,North,18,Female,85800.0,Social Media,13.84,True,3.0,19.1,5.3,False,None,0.0,False,18-25,High,0.0
+CUST0349,South,43,Female,37000.0,Referral,2.51,True,1.0,14.0,5.8,False,None,0.0,False,36-45,Low,0.0
+CUST0350,East,38,Female,71400.0,Referral,5.11,True,5.0,25.0,9.1,False,None,0.0,False,36-45,High,0.0
+CUST0351,East,36,Male,71800.0,Organic,0.0,False,,,,False,None,0.0,False,36-45,High,0.0
+CUST0352,Central,42,Female,44500.0,Email,0.48,True,3.0,20.9,8.8,False,None,0.0,False,36-45,Mid,0.0
+CUST0353,West,48,Male,75700.0,Organic,0.0,False,,,,False,None,0.0,False,46-55,High,0.0
+CUST0354,North,43,Female,76300.0,Referral,4.38,False,,,,False,None,0.0,False,36-45,High,0.0
+CUST0355,North,18,Female,,Social Media,16.85,False,,,,False,None,0.0,False,18-25,,0.0
+CUST0356,East,22,Female,53000.0,Social Media,12.87,True,10.0,14.8,5.1,False,None,0.0,False,18-25,Mid,0.0
+CUST0357,North,28,Female,54200.0,Email,0.24,False,,,,False,None,0.0,False,26-35,Mid,0.0
+CUST0358,East,34,Male,44900.0,Referral,3.87,True,2.0,9.5,7.6,False,None,0.0,False,26-35,Mid,0.0
+CUST0359,Central,33,Male,43500.0,Social Media,14.04,True,5.0,12.2,8.1,True,Basic,10.53,False,26-35,Mid,0.8631
+CUST0360,East,27,Female,42800.0,Google Ads,21.742499999999996,True,2.0,15.6,6.0,False,None,0.0,False,26-35,Mid,0.0
+CUST0361,South,35,Male,45300.0,Organic,0.0,True,5.0,25.4,4.2,False,None,0.0,False,26-35,Mid,0.0
+CUST0362,East,27,Male,47300.0,Google Ads,14.24,True,1.0,20.3,8.1,False,None,0.0,False,26-35,Mid,0.0
+CUST0363,East,28,Female,57300.0,Google Ads,21.74,True,8.0,12.2,3.5,False,None,0.0,False,26-35,Mid,0.0
+CUST0364,East,21,Female,39400.0,Google Ads,18.78,False,,,,False,None,0.0,False,18-25,Low,0.0
+CUST0365,Central,25,Male,53300.0,Social Media,10.26,True,5.0,14.3,8.9,True,Premium,40.1,False,18-25,Mid,2.8042
+CUST0366,South,21,Male,53300.0,Google Ads,19.07,True,15.0,13.7,7.5,False,None,0.0,False,18-25,Mid,0.0
+CUST0367,Central,25,Female,30100.0,Google Ads,12.73,True,1.0,23.9,10.0,True,Basic,10.09,True,18-25,Low,0.4222
+CUST0368,Central,43,Female,53700.0,Social Media,12.01,False,,,,False,None,0.0,False,36-45,Mid,0.0
+CUST0369,North,25,Male,72300.0,Email,3.66,False,,,,False,None,0.0,False,18-25,High,0.0
+CUST0370,North,57,Male,47900.0,Google Ads,19.85,True,4.0,23.0,7.2,True,Premium,39.99,False,56-65,Mid,1.7387
+CUST0371,North,38,Male,76700.0,Email,0.97,False,,,,False,None,0.0,False,36-45,High,0.0
+CUST0372,North,35,Male,64200.0,Email,3.17,False,,,,False,None,0.0,False,26-35,Mid,0.0
+CUST0373,North,26,Male,52900.0,Social Media,10.15,False,,,,False,None,0.0,False,26-35,Mid,0.0
+CUST0374,West,40,Female,69400.0,Referral,5.51,False,,,,False,None,0.0,False,36-45,Mid,0.0
+CUST0375,North,28,Female,65600.0,Google Ads,16.21,True,1.0,14.9,3.5,False,None,0.0,False,26-35,Mid,0.0
+CUST0376,South,35,Female,45800.0,Email,2.18,True,6.0,21.0,7.3,False,None,0.0,False,26-35,Mid,0.0
+CUST0377,West,57,Male,75400.0,Social Media,10.01,False,,,,False,None,0.0,False,56-65,High,0.0
+CUST0378,North,33,Female,50800.0,Referral,6.3,True,1.0,11.4,4.2,False,None,0.0,False,26-35,Mid,0.0
+CUST0379,West,44,Male,71700.0,Referral,6.72,True,4.0,15.8,7.9,False,None,0.0,False,36-45,High,0.0
+CUST0380,South,27,Non-binary,30900.0,Social Media,11.53,True,4.0,17.1,8.5,False,None,0.0,False,26-35,Low,0.0
+CUST0381,North,33,Female,58900.0,Social Media,12.08,True,10.0,9.6,7.6,False,None,0.0,False,26-35,Mid,0.0
+CUST0382,West,49,Male,61000.0,Referral,2.1,True,4.0,21.5,6.6,True,Standard,19.73,False,46-55,Mid,0.9177
+CUST0383,East,28,Female,47600.0,Referral,4.4,True,2.0,13.7,8.3,False,None,0.0,False,26-35,Mid,0.0
+CUST0384,Central,50,Male,62400.0,Google Ads,17.9,True,8.0,16.8,8.4,True,Standard,20.1,False,46-55,Mid,1.1964
+CUST0385,West,40,Female,80900.0,Referral,10.24,True,3.0,15.3,7.8,False,None,0.0,False,36-45,High,0.0
+CUST0386,West,28,Male,76100.0,Google Ads,15.78,True,1.0,13.3,5.7,False,None,0.0,False,26-35,High,0.0
+CUST0387,South,39,Male,34100.0,Referral,7.93,True,4.0,18.0,7.7,True,Standard,20.23,False,36-45,Low,1.1239
+CUST0388,North,42,Female,56800.0,Social Media,13.99,False,,,,False,None,0.0,False,36-45,Mid,0.0
+CUST0389,West,39,Male,82100.0,Email,3.56,True,2.0,15.8,6.1,False,None,0.0,False,36-45,High,0.0
+CUST0390,West,19,Female,71400.0,Social Media,15.52,True,1.0,13.6,10.0,False,None,0.0,False,18-25,High,0.0
+CUST0391,Central,27,Male,73200.0,Google Ads,18.74,True,1.0,19.9,6.3,True,Standard,19.12,False,26-35,High,0.9608
+CUST0392,East,31,Female,58900.0,Social Media,12.78,True,1.0,27.9,7.3,True,Premium,39.72,False,26-35,Mid,1.4237
+CUST0393,South,33,Female,46900.0,Social Media,11.89,True,2.0,18.8,6.0,False,None,0.0,False,26-35,Mid,0.0
+CUST0394,West,39,Female,66900.0,Google Ads,20.45,True,4.0,24.0,7.6,False,None,0.0,False,36-45,Mid,0.0
+CUST0395,South,35,Male,46300.0,Social Media,14.19,True,1.0,9.7,4.1,False,None,0.0,False,26-35,Mid,0.0
+CUST0396,Central,21,Male,48500.0,Email,1.75,True,14.0,18.9,6.2,False,None,0.0,False,18-25,Mid,0.0
+CUST0397,Central,37,Male,57100.0,Social Media,9.36,False,,,,False,None,0.0,False,36-45,Mid,0.0
+CUST0398,East,39,Male,64600.0,Google Ads,17.59,False,,,,False,None,0.0,False,36-45,Mid,0.0
+CUST0399,West,39,Female,62100.0,Google Ads,16.4,True,8.0,13.6,9.0,False,None,0.0,False,36-45,Mid,0.0
+CUST0400,West,43,Female,56700.0,Social Media,11.87,False,,,,False,None,0.0,False,36-45,Mid,0.0
+CUST0401,North,41,Female,41600.0,Social Media,14.47,True,3.0,23.7,2.9,False,None,0.0,False,36-45,Mid,0.0
+CUST0402,Central,38,Female,55100.0,Google Ads,17.09,True,4.0,19.5,10.0,False,None,0.0,False,36-45,Mid,0.0
+CUST0403,East,33,Female,44000.0,Google Ads,17.91,True,8.0,8.8,7.7,True,Standard,19.86,False,26-35,Mid,2.2568
+CUST0404,West,19,Female,48500.0,Google Ads,18.12,False,,,,False,None,0.0,False,18-25,Mid,0.0
+CUST0405,South,37,Male,48900.0,Google Ads,19.7,False,,,,False,None,0.0,False,36-45,Mid,0.0
+CUST0406,Central,35,Female,74900.0,Referral,0.51,True,14.0,19.1,7.5,False,None,0.0,False,26-35,High,0.0
+CUST0407,South,36,Female,44900.0,Social Media,10.79,True,1.0,6.9,6.0,False,None,0.0,False,36-45,Mid,0.0
+CUST0408,North,22,Female,68400.0,Google Ads,18.42,True,10.0,12.7,7.6,False,None,0.0,False,18-25,Mid,0.0
+CUST0409,Central,24,Male,50800.0,Organic,2.4,False,,,,False,None,0.0,False,18-25,Mid,0.0
+CUST0410,North,43,Male,59000.0,Google Ads,17.02,False,,,,False,None,0.0,False,36-45,Mid,0.0
+CUST0411,South,33,Male,54200.0,Referral,1.25,True,6.0,4.8,7.1,False,None,0.0,False,26-35,Mid,0.0
+CUST0412,Central,40,Female,47100.0,Google Ads,19.24,False,,,,False,None,0.0,False,36-45,Mid,0.0
+CUST0413,Central,34,Female,52700.0,Email,1.73,False,,,,False,None,0.0,False,26-35,Mid,0.0
+CUST0414,East,34,Male,58200.0,Email,0.62,True,3.0,23.1,8.3,True,Premium,40.12,False,26-35,Mid,1.7368
+CUST0415,East,42,Non-binary,48300.0,Google Ads,16.75,True,4.0,22.2,8.1,False,None,0.0,False,36-45,Mid,0.0
+CUST0416,East,29,Male,64900.0,Organic,0.0,False,,,,False,None,0.0,False,26-35,Mid,0.0
+CUST0417,South,34,Male,43300.0,Social Media,10.79,False,,,,False,None,0.0,False,26-35,Mid,0.0
+CUST0418,South,29,Male,37400.0,Social Media,7.59,True,3.0,6.6,6.2,False,None,0.0,False,26-35,Low,0.0
+CUST0419,West,30,Female,75400.0,Email,4.79,True,8.0,15.6,8.7,True,Standard,20.59,False,26-35,High,1.3199
+CUST0420,West,31,Female,61000.0,Email,5.55,True,15.0,24.0,4.8,False,None,0.0,False,26-35,Mid,0.0
+CUST0421,West,35,Male,70300.0,Social Media,13.3,True,1.0,26.4,5.6,True,Basic,9.6,True,26-35,High,0.3636
+CUST0422,West,29,Female,69900.0,Social Media,9.72,True,20.0,22.3,5.5,False,None,0.0,False,26-35,Mid,0.0
+CUST0423,North,45,Male,70900.0,Social Media,11.6,False,,,,False,None,0.0,False,36-45,High,0.0
+CUST0424,East,25,Female,59700.0,Social Media,11.99,True,8.0,20.3,8.9,True,Basic,9.74,False,18-25,Mid,0.4798
+CUST0425,North,32,Female,59700.0,Email,4.2,True,1.0,14.7,8.1,False,None,0.0,False,26-35,Mid,0.0
+CUST0426,East,30,Female,63200.0,Google Ads,19.34,False,,,,False,None,0.0,False,26-35,Mid,0.0
+CUST0427,East,47,Male,68900.0,Google Ads,16.53,True,2.0,28.0,5.6,False,None,0.0,False,46-55,Mid,0.0
+CUST0428,Central,35,Non-binary,55600.0,Google Ads,18.16,True,5.0,12.3,7.8,False,None,0.0,False,26-35,Mid,0.0
+CUST0429,South,43,Female,45100.0,Social Media,12.91,True,2.0,27.7,7.0,False,None,0.0,False,36-45,Mid,0.0
+CUST0430,North,20,Male,46900.0,Social Media,14.91,False,,,,False,None,0.0,False,18-25,Mid,0.0
+CUST0431,North,36,Female,49300.0,Referral,6.41,False,,,,False,None,0.0,False,36-45,Mid,0.0
+CUST0432,West,42,Male,66900.0,Organic,1.58,False,,,,False,None,0.0,False,36-45,Mid,0.0
+CUST0433,East,34,Female,48900.0,Email,3.17,False,,,,False,None,0.0,False,26-35,Mid,0.0
+CUST0434,North,43,Male,58100.0,Social Media,14.82,False,,,,False,None,0.0,False,36-45,Mid,0.0
+CUST0435,North,29,Female,60600.0,Email,3.82,False,,,,False,None,0.0,False,26-35,Mid,0.0
+CUST0436,West,46,Female,75300.0,Email,1.28,False,,,,False,None,0.0,False,46-55,High,0.0
+CUST0437,North,54,Male,59300.0,Email,5.81,False,,,,False,None,0.0,False,46-55,Mid,0.0
+CUST0438,West,30,Male,74900.0,Google Ads,19.4,True,8.0,12.9,2.7,False,None,0.0,False,26-35,High,0.0
+CUST0439,West,29,Male,70600.0,Google Ads,17.11,True,4.0,9.0,7.6,False,None,0.0,False,26-35,High,0.0
+CUST0440,North,47,Male,40200.0,Google Ads,17.04,True,2.0,17.4,8.3,False,None,0.0,False,46-55,Mid,0.0
+CUST0441,North,48,Male,50600.0,Social Media,12.59,True,8.0,17.5,7.7,False,None,0.0,False,46-55,Mid,0.0
+CUST0442,Central,29,Female,48600.0,Social Media,12.93,True,4.0,21.3,3.7,True,Basic,9.73,True,26-35,Mid,0.4568
+CUST0443,South,30,Male,32900.0,Social Media,12.39,False,,,,True,Premium,39.59,False,26-35,Low,0.0
+CUST0444,South,31,Male,51000.0,Google Ads,18.62,True,4.0,17.6,3.2,False,None,0.0,False,26-35,Mid,0.0
+CUST0445,West,21,Female,85300.0,Referral,8.4,True,7.0,29.1,9.7,True,Basic,9.82,False,18-25,High,0.3375
+CUST0446,Central,25,Male,62200.0,Google Ads,20.14,True,4.0,19.3,5.2,False,None,0.0,False,18-25,Mid,0.0
+CUST0447,Central,24,Female,47900.0,Social Media,12.38,True,2.0,15.9,9.5,False,None,0.0,False,18-25,Mid,0.0
+CUST0448,West,27,Female,84900.0,Organic,1.88,True,15.0,8.3,8.9,False,None,0.0,False,26-35,High,0.0
+CUST0449,South,33,Female,46500.0,Organic,0.0,True,3.0,16.4,5.6,False,None,0.0,False,26-35,Mid,0.0
+CUST0450,North,36,Female,56600.0,Email,3.8,True,4.0,16.0,5.2,True,Basic,10.38,False,36-45,Mid,0.6488
+CUST0451,West,47,Female,,Organic,3.62,False,,,,False,None,0.0,False,46-55,,0.0
+CUST0452,East,25,Male,52000.0,Google Ads,17.56,True,4.0,20.8,5.7,False,None,0.0,False,18-25,Mid,0.0
+CUST0453,East,42,Male,51100.0,Organic,0.0,False,,,,False,None,0.0,False,36-45,Mid,0.0
+CUST0454,Central,32,Male,51700.0,Social Media,10.7,False,,,,False,None,0.0,False,26-35,Mid,0.0
+CUST0455,North,33,Female,61600.0,Google Ads,15.82,False,,,,False,None,0.0,False,26-35,Mid,0.0
+CUST0456,East,40,Male,55000.0,Social Media,10.43,True,4.0,27.2,3.2,True,Standard,19.46,False,36-45,Mid,0.7154
+CUST0457,North,23,Female,64400.0,Social Media,11.26,False,,,,False,None,0.0,False,18-25,Mid,0.0
+CUST0458,East,37,Non-binary,66900.0,Social Media,9.19,True,3.0,22.6,6.2,True,Basic,10.2,False,36-45,Mid,0.4513
+CUST0459,North,35,Female,69500.0,Referral,5.03,True,1.0,18.4,6.2,False,None,0.0,False,26-35,Mid,0.0
+CUST0460,North,38,Female,45200.0,Email,4.8,True,5.0,20.3,8.5,False,None,0.0,False,36-45,Mid,0.0
+CUST0461,North,36,Male,34500.0,Referral,3.18,True,1.0,25.5,9.3,False,None,0.0,False,36-45,Low,0.0
+CUST0462,East,56,Female,64300.0,Social Media,15.04,True,2.0,10.0,6.7,False,None,0.0,False,56-65,Mid,0.0
+CUST0463,West,28,Female,56300.0,Email,4.02,False,,,,False,None,0.0,False,26-35,Mid,0.0
+CUST0464,East,29,Male,52800.0,Referral,7.06,True,1.0,13.4,8.1,False,None,0.0,False,26-35,Mid,0.0
+CUST0465,Central,28,Male,38300.0,Google Ads,16.68,True,1.0,20.3,4.8,False,None,0.0,False,26-35,Low,0.0
+CUST0466,South,29,Female,27000.0,Referral,6.71,True,2.0,25.4,7.6,False,None,0.0,False,26-35,Low,0.0
+CUST0467,South,28,Female,50400.0,Social Media,9.82,True,1.0,14.4,8.2,False,None,0.0,False,26-35,Mid,0.0
+CUST0468,Central,44,Female,57600.0,Google Ads,19.78,False,,,,False,None,0.0,False,36-45,Mid,0.0
+CUST0469,South,46,Female,39200.0,Organic,0.34,False,,,,False,None,0.0,False,46-55,Low,0.0
+CUST0470,Central,28,Female,24100.0,Social Media,13.11,True,3.0,23.5,5.8,True,Standard,19.14,False,26-35,Low,0.8145
+CUST0471,North,26,Female,54500.0,Google Ads,15.65,True,2.0,21.2,5.6,False,None,0.0,False,26-35,Mid,0.0
+CUST0472,Central,38,Male,53900.0,Email,1.21,False,,,,False,None,0.0,False,36-45,Mid,0.0
+CUST0473,North,29,Male,45200.0,Referral,6.19,True,1.0,16.3,8.1,False,None,0.0,False,26-35,Mid,0.0
+CUST0474,Central,39,Male,51800.0,Social Media,10.1,True,3.0,10.3,9.9,False,None,0.0,False,36-45,Mid,0.0
+CUST0475,East,35,Female,54800.0,Social Media,12.93,True,1.0,21.1,6.3,False,None,0.0,False,26-35,Mid,0.0
+CUST0476,Central,20,Female,55800.0,Social Media,9.27,True,1.0,13.0,6.3,True,Premium,39.71,True,18-25,Mid,3.0546
+CUST0477,North,47,Female,61200.0,Referral,6.7,False,,,,False,None,0.0,False,46-55,Mid,0.0
+CUST0478,East,50,Male,45300.0,Google Ads,15.53,False,,,,False,None,0.0,False,46-55,Mid,0.0
+CUST0479,Central,28,Female,62000.0,Social Media,13.1,False,,,,False,None,0.0,False,26-35,Mid,0.0
+CUST0480,East,30,Female,53400.0,Organic,1.25,True,4.0,14.3,7.7,False,None,0.0,False,26-35,Mid,0.0
+CUST0481,East,36,Female,54700.0,Google Ads,16.61,False,,,,False,None,0.0,False,36-45,Mid,0.0
+CUST0482,West,37,Female,60700.0,Social Media,13.16,False,,,,False,None,0.0,False,36-45,Mid,0.0
+CUST0483,East,33,Male,50600.0,Google Ads,18.52,False,,,,False,None,0.0,False,26-35,Mid,0.0
+CUST0484,East,52,Female,46200.0,Referral,3.92,True,1.0,19.1,8.4,False,None,0.0,False,46-55,Mid,0.0
+CUST0485,East,32,Male,53300.0,Social Media,9.98,False,,,,False,None,0.0,False,26-35,Mid,0.0
+CUST0486,Central,26,Male,67100.0,Social Media,8.07,True,3.0,29.3,10.0,False,None,0.0,False,26-35,Mid,0.0
+CUST0487,North,21,Female,46300.0,Email,3.7,True,5.0,18.3,8.7,False,None,0.0,False,18-25,Mid,0.0
+CUST0488,South,27,Female,28900.0,Google Ads,14.87,True,1.0,22.6,9.3,False,None,0.0,False,26-35,Low,0.0
+CUST0489,Central,33,Female,,Google Ads,18.19,False,,,,False,None,0.0,False,26-35,,0.0
+CUST0490,Central,50,Female,47900.0,Google Ads,17.47,True,9.0,20.2,5.1,False,None,0.0,False,46-55,Mid,0.0
+CUST0491,East,29,Female,48300.0,Social Media,13.36,True,1.0,19.9,8.7,False,None,0.0,False,26-35,Mid,0.0
+CUST0492,East,36,Female,65400.0,Social Media,11.4,False,,,,False,None,0.0,False,36-45,Mid,0.0
+CUST0493,South,33,Female,38900.0,Google Ads,17.34,True,1.0,30.1,7.4,False,None,0.0,False,26-35,Low,0.0
+CUST0494,North,44,Male,78300.0,Social Media,13.46,False,,,,False,None,0.0,False,36-45,High,0.0
+CUST0495,East,56,Male,61800.0,Social Media,12.67,False,,,,False,None,0.0,False,56-65,Mid,0.0
+CUST0496,South,29,Male,40100.0,Email,3.63,True,3.0,11.4,9.5,False,None,0.0,False,26-35,Mid,0.0
+CUST0497,East,29,Male,76600.0,Organic,0.94,True,1.0,20.1,9.5,False,None,0.0,False,26-35,High,0.0
+CUST0498,North,43,Male,53900.0,Email,0.0,True,2.0,18.5,8.2,False,None,0.0,False,36-45,Mid,0.0
+CUST0499,Central,40,Male,57400.0,Email,4.51,False,,,,False,None,0.0,False,36-45,Mid,0.0
+CUST0500,Central,50,Male,53000.0,Social Media,13.22,False,,,,True,Standard,19.83,False,46-55,Mid,0.0
